@@ -1,5 +1,7 @@
 ### Hi there 👋
 <p>My name is Ryan</p>
+<p>I just started using github, and I'm very excited about it.</p>
+
 <!--
 **R-Alothaim/R-Alothaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
