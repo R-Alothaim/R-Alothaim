@@ -2,14 +2,14 @@
 <p>My name is Ryan</p>
 <p>I just started using github, and I'm very excited about it.</p>
 
-<h2>🥇 Specialised in</h2>
+<!--<h2>🥇 Specialised in</h2>
 <p>
   🔸 Web3.0
   <br>🔸 Blockchain
   <br>🔸 FrontEnd - React.js, React-Native
   <br>🔸 BackEnd - Node, Express
   <br>🔸 Languages - Typescript, Python, Java, C#, C++, C
-<p>
+<p>-->
 <a href="https://github.com/R-Alothaim" style="width: 100%">
   <!--<img src="https://github-readme-stats.vercel.app/api?username=R-Alothaim&show_icons=true&theme=radical" alt="" height="150px"/>-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Alothaim&layout=compact&theme=radical" alt="" height="150px"/>
