@@ -10,10 +10,12 @@
   <br>🔸 BackEnd - Node, Express
   <br>🔸 Languages - Typescript, Python, Java, C#, C++, C
 <p>-->
-<a href="https://github.com/R-Alothaim" style="width: 100%"></a>
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=R-Alothaim&show_icons=true&theme=radical" alt="" height="150px"/>-->
-  <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=R-Alothaim&show_icons=true&theme=dracula&title_color=f7b355&text_color=ffffff&locale=en&layout=compact" alt="R-Alothaim" /></p>
+<a href="https://github.com/R-Alothaim" style="width: 100%">
+	<img src="https://github-readme-stats.vercel.app/api?username=R-Alothaim&show_icons=true&theme=radical" alt="R-Alothaim" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Alothaim&layout=compact&theme=radical" alt="R-Alothaim" height="150px"/>
+</a>
 
+<br>
 <br>
 	
 <!--<h2>🤹&nbsp;Skills</h2>
