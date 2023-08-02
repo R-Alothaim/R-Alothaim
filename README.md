@@ -1,6 +1,5 @@
 ### Hi there 👋
 <p>My name is Ryan</p>
-<p>I just started using github, and I'm very excited about it.</p>
 
 <!--<h2>🥇 Specialised in</h2>
 <p>
