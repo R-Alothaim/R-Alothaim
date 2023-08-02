@@ -11,7 +11,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=R-Alothaim&show_icons=true&theme=radical" alt="" height="150px"/>
 <p>-->
 <a href="https://github.com/R-Alothaim" style="width: 100%">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Alothaim&layout=compact&theme=radical" alt="" height="150px"/>
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Alothaim&layout=compact&theme=radical" alt="" height="150px"/>-->
 </a>
 <br>
 
