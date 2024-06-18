@@ -19,13 +19,6 @@
 <p>-->
 <a href="https://github.com/R-Alothaim" style="width: 100%">  
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Alothaim&layout=compact&theme=radical" alt="" height="150px"/>-->
-</a>
-<br>
-
-<br>
-<br>
-	
-<h2>&nbsp;Skills</h2>
 <br>
 <p align="center">
 	<img src="https://github.com/R-Alothaim/R-Alothaim/blob/main/github-contribution-grid-snake.svg">
