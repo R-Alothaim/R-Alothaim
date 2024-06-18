@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Rayan Alothaim 👋
 
 <p>Welcome to my GitHub! I'm a Software Engineer passionate about creating innovative solutions and writing clean code.</p>
 
