@@ -1,5 +1,12 @@
-### Hi there 👋
-<p>My name is Ryan</p>
+# Hi there, I'm [Your Name] 👋
+
+<p>Welcome to my GitHub! I'm a Software Engineer passionate about creating innovative solutions and writing clean code.</p>
+
+## About Me
+
+- 💻 **Specialization**: Full-Stack, Mobile Apps, Desktop Apps.
+- 🌱 **Learning**: Machine Learning
+- 💬 **Ask Me About**: Java, JavaScript,Node.js, Python, React, Angular, PHP, HTML&CSS, MySQL.
 
 <!--<h2>🥇 Specialised in</h2>
 <p>
