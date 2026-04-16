@@ -3,7 +3,6 @@
 <p>Welcome to my GitHub! I'm a Sr. Full Stack Mobile & Web Application Engineer passionate about creating innovative solutions and writing clean code.</p>
 
 ## About Me
-
 - 💻 **Specialization**: Full-Stack Mobile / Web Apps.
 - 🌱 **Learning**: .NET, ASP.NET
 - 💬 **Ask Me About**:
