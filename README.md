@@ -39,12 +39,5 @@
 </tr></table>
 
 
-## 📊 My GitHub Contributions by Year
-> 💡 **Tip:** Click the desired year, then scroll down to Contribution Graph:
-- [2022 Contributions](https://github.com/R-Alothaim?tab=overview&from=2022-01-01&to=2022-12-31)
-- [2023 Contributions](https://github.com/R-Alothaim?tab=overview&from=2023-01-01&to=2023-12-31) ⭐ 735 contributions
-- [2024 Contributions](https://github.com/R-Alothaim?tab=overview&from=2024-01-01&to=2024-12-31)
-- [2025 Contributions](https://github.com/R-Alothaim?tab=overview&from=2025-01-01&to=2025-12-31)
-- [2026 Contributions](https://github.com/R-Alothaim?tab=overview&from=2026-01-01&to=2026-12-31) 🔥
 
 <img src="https://streak-stats.demolab.com?user=R-Alothaim&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
